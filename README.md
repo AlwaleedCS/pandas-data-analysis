@@ -3,7 +3,7 @@
 This project is a simple Python script built using the Pandas library to handle and clean academic data. It focuses on structuring a DataFrame, changing data types, and handling missing or null values (NaN).
 
 ## Features
-The `app.py` script performs the following operations:
+The `pandas_data_analysis.py` script performs the following operations:
 1. **DataFrame Creation**: Builds a dataset containing academic majors, course names, and level numbers.
 2. **Data Description**: Utilizes `df.describe()` to generate quick descriptive statistics of the dataset.
 3. **Data Type Conversion**: Casts the `Level` column into floating-point numbers (`float`).
